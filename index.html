@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="utf-8">
+      <title>Renewable Resource</title>
+      <script src="https://d3js.org/d3.v4.js"></script>
+      <script src="http://d3js.org/topojson.v1.min.js"></script>
+      <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+      <script src="https://d3js.org/d3-selection-multi.v1.min.js"></script>
+	  <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+	  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+	  <script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+	 
+
+	
+      <link rel="stylesheet" type="text/css" href="stylesecond.css">
+	 
+  </head>
+  
+  <body>
+  <ul>
+  <li><a class="active" href="index.html">2014</a></li>
+  <li><a href="time.html">Time Line</a></li>
+ <!-- <li><a href="#contact">Contact</a></li> -->
+ <!-- <li><a href="#about">About</a></li> -->
+</ul>
+  <div class="row" >
+  <div class="col-sm-12">
+	<h1>Renewable Electricity World Map - 2014</h1></div>
+  </div>
+ <div class="row" >
+ <div class="col-sm-4">
+ 
+ </div>
+	<div class="col-sm-4"  ></div>
+	 
+   <div class="col-sm-4" id="filter" >
+   Filter :
+ <select id="renew" >
+		<option value="all" selected>All country</option>
+		<option value="Hydro">Hydro Power</option>
+		<option value="Wind">Wind Power</option>
+		<option value="Solar">Solar Power</option>
+		<option value="Biomasswaste">Biomasswaste</option>
+		<option value="Wavetidal">Wavetidal</option>
+		<option value="Geothermal">Geothermal</option>  </select>
+ <select id="options">
+	  <option value="Carbon Emission(kt)" selected="selected">Carbon emission(kt)</option>
+	  <option value="Total Electricity Production(kw)">Total Electricity production(kw)</option>
+	  </select>
+  
+ </div>
+  <div class="col-sm-4">
+		
+		   
+
+</div>
+</div>
+	<div class="row">
+  <div class="col-sm-8" id="Map"></div>
+  <div class="col-sm-4" id ="PieChart">
+ <p id= "disapear"> 
+ First Filter : Selects Country which uses 'selected' Renewable Resources to produce electricity  <br/> <br>
+ Second Filter: Changes the map based on value 'selected'. <br>
+ 'Carbon Emission' Will show Co2 Emitted by each country in Carat(kt)<br>
+ 'Total Electricity Production' Will show production of Electricity(with and without renewable sources) by each country<br><br>
+ Click: A pie chart for each country will appear, showing all the renewable resources used to produce electricity<br><br>
+ <b>NEXT PAGE: TIME LINE</b><br>
+The Map shows, % Electricity produced by renewable resorces(excluding HydroPower) used each country <br><br>
+Timeline: This percentage can be seen from 1990 to 2014  <br><br>
+Top 5: Top 5 countries with high percentage can be seen in the bar chart <br><br>
+Filter : Countries based on their income group can be selected, with all the above functionality<br><br>
+
+ 
+ 
+ </p>
+  
+  </div>
+
+  
+  
+</div>
+
+	 <script src="mapFunction.js"></script>
+   
+	
+  </body>
+</html>

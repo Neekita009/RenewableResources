@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="utf-8">
+      <title>Renewable Resource</title>
+      <script src="https://d3js.org/d3.v4.js"></script>
+      <script src="http://d3js.org/topojson.v1.min.js"></script>
+      <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+      <script src="https://d3js.org/d3-selection-multi.v1.min.js"></script>
+	  <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+	  <script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+	
+      <link rel="stylesheet" type="text/css" href="style.css">
+	
+  </head>
+  <body>
+    <ul>
+   <li><a  href="index.html">2014</a></li>
+  <li><a class="active" href="time.html">Time Line</a></li>
+ <!-- <li><a href="#contact">Contact</a></li> -->
+ <!-- <li><a href="#about">About</a></li> -->
+</ul>
+	<h1>Renewable Electricity World Map</h1>
+	<div id="filter">
+	Filter:
+	<select id="sel" >
+	<option value="all" selected="selected">All Countries</option>
+  <option value="High income" >High income</option>
+  <option value="Low income">Low income</option>
+  <option value="Lower middle income">Lower middle income</option>
+  <option value="Upper middle income">Upper middle income</option>
+</select>
+
+
+</div>
+		<div class="container" id="Map">
+		<button id="play-button">Play</button>
+		</div>
+		
+		
+		<!--<div class="container" id="bar">
+		onchange="IncomeGroup()"
+		</div> -->
+
+	 <script src="withdropdown.js"></script>
+   <div id="instruction">
+   <p>
+   When Filter is selected all other income group in the Map will be diabled.<br><br>
+   zoom in - click on any country <br><br>
+   zoom out - click on same country or right below the header of page 
+   
+   <p>
+   </div>
+	
+  </body>
+</html>

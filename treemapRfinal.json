@@ -1,0 +1,6827 @@
+[
+  {
+    "Country": "Afghanistan",
+    "type": "HydroPower",
+    "value": 86.07350097
+  },
+  {
+    "Country": "Albania",
+    "type": "HydroPower",
+    "value": 100
+  },
+  {
+    "Country": "Algeria",
+    "type": "HydroPower",
+    "value": 0.222620741
+  },
+  {
+    "Country": "American Samoa",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Angola",
+    "type": "HydroPower",
+    "value": 54.46069082
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Argentina",
+    "type": "HydroPower",
+    "value": 25.15898578
+  },
+  {
+    "Country": "Armenia",
+    "type": "HydroPower",
+    "value": 29.54545455
+  },
+  {
+    "Country": "Aruba",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Australia",
+    "type": "HydroPower",
+    "value": 5.586986974
+  },
+  {
+    "Country": "Austria",
+    "type": "HydroPower",
+    "value": 61.32595715
+  },
+  {
+    "Country": "Azerbaijan",
+    "type": "HydroPower",
+    "value": 6.957081545
+  },
+  {
+    "Country": "Bahamas, The",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Bahrain",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Bangladesh",
+    "type": "HydroPower",
+    "value": 1.008936293
+  },
+  {
+    "Country": "Barbados",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Belarus",
+    "type": "HydroPower",
+    "value": 0.330671325
+  },
+  {
+    "Country": "Belgium",
+    "type": "HydroPower",
+    "value": 0.479357205
+  },
+  {
+    "Country": "Belize",
+    "type": "HydroPower",
+    "value": 95.16129032
+  },
+  {
+    "Country": "Benin",
+    "type": "HydroPower",
+    "value": 0.641025641
+  },
+  {
+    "Country": "Bermuda",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Bhutan",
+    "type": "HydroPower",
+    "value": 99.98706674
+  },
+  {
+    "Country": "Bolivia",
+    "type": "HydroPower",
+    "value": 29.91044044
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "type": "HydroPower",
+    "value": 36.70919901
+  },
+  {
+    "Country": "Botswana",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Brazil",
+    "type": "HydroPower",
+    "value": 62.63008881
+  },
+  {
+    "Country": "Brunei",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Bulgaria",
+    "type": "HydroPower",
+    "value": 12.11230467
+  },
+  {
+    "Country": "Burkina Faso",
+    "type": "HydroPower",
+    "value": 9.851694915
+  },
+  {
+    "Country": "Burundi",
+    "type": "HydroPower",
+    "value": 86.95652174
+  },
+  {
+    "Country": "Cambodia",
+    "type": "HydroPower",
+    "value": 46.74220963
+  },
+  {
+    "Country": "Cameroon",
+    "type": "HydroPower",
+    "value": 75.90015129
+  },
+  {
+    "Country": "Canada",
+    "type": "HydroPower",
+    "value": 58.23984421
+  },
+  {
+    "Country": "Cape Verde",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Cayman Islands",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Central African Republic",
+    "type": "HydroPower",
+    "value": 86.20689655
+  },
+  {
+    "Country": "Chad",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Chile",
+    "type": "HydroPower",
+    "value": 32.35497429
+  },
+  {
+    "Country": "China",
+    "type": "HydroPower",
+    "value": 19.7666892
+  },
+  {
+    "Country": "Colombia",
+    "type": "HydroPower",
+    "value": 65.99411205
+  },
+  {
+    "Country": "Comoros",
+    "type": "HydroPower",
+    "value": 3.703703704
+  },
+  {
+    "Country": "Congo (Brazzaville)",
+    "type": "HydroPower",
+    "value": 54.65393795
+  },
+  {
+    "Country": "Congo (Kinshasa)",
+    "type": "HydroPower",
+    "value": 99.71757795
+  },
+  {
+    "Country": "Costa Rica",
+    "type": "HydroPower",
+    "value": 74.46153846
+  },
+  {
+    "Country": "Croatia",
+    "type": "HydroPower",
+    "value": 58.12052177
+  },
+  {
+    "Country": "Cuba",
+    "type": "HydroPower",
+    "value": 0.251059156
+  },
+  {
+    "Country": "Cyprus",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Czech Republic",
+    "type": "HydroPower",
+    "value": 2.285750996
+  },
+  {
+    "Country": "Denmark",
+    "type": "HydroPower",
+    "value": 0.063395907
+  },
+  {
+    "Country": "Djibouti",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Dominica",
+    "type": "HydroPower",
+    "value": 24.46808511
+  },
+  {
+    "Country": "Dominican Republic",
+    "type": "HydroPower",
+    "value": 5.970340066
+  },
+  {
+    "Country": "Ecuador",
+    "type": "HydroPower",
+    "value": 51.91606935
+  },
+  {
+    "Country": "Egypt",
+    "type": "HydroPower",
+    "value": 7.739224564
+  },
+  {
+    "Country": "El Salvador",
+    "type": "HydroPower",
+    "value": 22.79486313
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "type": "HydroPower",
+    "value": 45.88235294
+  },
+  {
+    "Country": "Eritrea",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Estonia",
+    "type": "HydroPower",
+    "value": 0.273003033
+  },
+  {
+    "Country": "Ethiopia",
+    "type": "HydroPower",
+    "value": 92.61193308
+  },
+  {
+    "Country": "Faroe Islands",
+    "type": "HydroPower",
+    "value": 43.32247557
+  },
+  {
+    "Country": "Fiji",
+    "type": "HydroPower",
+    "value": 45.51569507
+  },
+  {
+    "Country": "Finland",
+    "type": "HydroPower",
+    "value": 24.97816068
+  },
+  {
+    "Country": "France",
+    "type": "HydroPower",
+    "value": 9.95588042
+  },
+  {
+    "Country": "French Polynesia",
+    "type": "HydroPower",
+    "value": 35.94249201
+  },
+  {
+    "Country": "Gabon",
+    "type": "HydroPower",
+    "value": 44.44987775
+  },
+  {
+    "Country": "Gambia, The",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Georgia",
+    "type": "HydroPower",
+    "value": 78.91560585
+  },
+  {
+    "Country": "Germany",
+    "type": "HydroPower",
+    "value": 3.059306326
+  },
+  {
+    "Country": "Ghana",
+    "type": "HydroPower",
+    "value": 52.16333153
+  },
+  {
+    "Country": "Gibraltar",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Greece",
+    "type": "HydroPower",
+    "value": 11.73485956
+  },
+  {
+    "Country": "Greenland",
+    "type": "HydroPower",
+    "value": 67.68
+  },
+  {
+    "Country": "Grenada",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Guadeloupe",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Guam",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Guatemala",
+    "type": "HydroPower",
+    "value": 35.65055762
+  },
+  {
+    "Country": "Guinea",
+    "type": "HydroPower",
+    "value": 50
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Guyana",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Haiti",
+    "type": "HydroPower",
+    "value": 8.367346939
+  },
+  {
+    "Country": "Honduras",
+    "type": "HydroPower",
+    "value": 26.84198332
+  },
+  {
+    "Country": "Hong Kong",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Hungary",
+    "type": "HydroPower",
+    "value": 0.790720357
+  },
+  {
+    "Country": "Iceland",
+    "type": "HydroPower",
+    "value": 72.96583684
+  },
+  {
+    "Country": "India",
+    "type": "HydroPower",
+    "value": 9.290824355
+  },
+  {
+    "Country": "Indonesia",
+    "type": "HydroPower",
+    "value": 6.147144678
+  },
+  {
+    "Country": "Iran",
+    "type": "HydroPower",
+    "value": 5.264349684
+  },
+  {
+    "Country": "Iraq",
+    "type": "HydroPower",
+    "value": 3.922051914
+  },
+  {
+    "Country": "Ireland",
+    "type": "HydroPower",
+    "value": 2.995720399
+  },
+  {
+    "Country": "Israel",
+    "type": "HydroPower",
+    "value": 0.039705517
+  },
+  {
+    "Country": "Italy",
+    "type": "HydroPower",
+    "value": 16.73911184
+  },
+  {
+    "Country": "Jamaica",
+    "type": "HydroPower",
+    "value": 3.282893049
+  },
+  {
+    "Country": "Japan",
+    "type": "HydroPower",
+    "value": 8.689636243
+  },
+  {
+    "Country": "Jordan",
+    "type": "HydroPower",
+    "value": 0.290778952
+  },
+  {
+    "Country": "Kazakhstan",
+    "type": "HydroPower",
+    "value": 9.125172788
+  },
+  {
+    "Country": "Kenya",
+    "type": "HydroPower",
+    "value": 39.18269231
+  },
+  {
+    "Country": "Kiribati",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Korea, North",
+    "type": "HydroPower",
+    "value": 73.80899128
+  },
+  {
+    "Country": "Korea, South",
+    "type": "HydroPower",
+    "value": 0.41003204
+  },
+  {
+    "Country": "Kosovo",
+    "type": "HydroPower",
+    "value": 2.413613475
+  },
+  {
+    "Country": "Kuwait",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "type": "HydroPower",
+    "value": 85.83144575
+  },
+  {
+    "Country": "Latvia",
+    "type": "HydroPower",
+    "value": 34.41764816
+  },
+  {
+    "Country": "Lebanon",
+    "type": "HydroPower",
+    "value": 2.736404572
+  },
+  {
+    "Country": "Lesotho",
+    "type": "HydroPower",
+    "value": 100
+  },
+  {
+    "Country": "Liberia",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Libya",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Lithuania",
+    "type": "HydroPower",
+    "value": 9.603108521
+  },
+  {
+    "Country": "Luxembourg",
+    "type": "HydroPower",
+    "value": 12.54953765
+  },
+  {
+    "Country": "Macedonia",
+    "type": "HydroPower",
+    "value": 30.39683847
+  },
+  {
+    "Country": "Madagascar",
+    "type": "HydroPower",
+    "value": 59.68169761
+  },
+  {
+    "Country": "Malawi",
+    "type": "HydroPower",
+    "value": 99.05660377
+  },
+  {
+    "Country": "Malaysia",
+    "type": "HydroPower",
+    "value": 9.716573507
+  },
+  {
+    "Country": "Maldives",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Mali",
+    "type": "HydroPower",
+    "value": 53.74712644
+  },
+  {
+    "Country": "Malta",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Martinique",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Mauritania",
+    "type": "HydroPower",
+    "value": 14.04056162
+  },
+  {
+    "Country": "Mauritius",
+    "type": "HydroPower",
+    "value": 4.235211761
+  },
+  {
+    "Country": "Mexico",
+    "type": "HydroPower",
+    "value": 10.38403354
+  },
+  {
+    "Country": "Moldova",
+    "type": "HydroPower",
+    "value": 5.31173807
+  },
+  {
+    "Country": "Mongolia",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Montenegro",
+    "type": "HydroPower",
+    "value": 50.94925785
+  },
+  {
+    "Country": "Morocco",
+    "type": "HydroPower",
+    "value": 6.672149319
+  },
+  {
+    "Country": "Mozambique",
+    "type": "HydroPower",
+    "value": 87.00648654
+  },
+  {
+    "Country": "Myanmar",
+    "type": "HydroPower",
+    "value": 60.102054
+  },
+  {
+    "Country": "Namibia",
+    "type": "HydroPower",
+    "value": 97.89335089
+  },
+  {
+    "Country": "Nauru",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Nepal",
+    "type": "HydroPower",
+    "value": 99.08388205
+  },
+  {
+    "Country": "Netherlands",
+    "type": "HydroPower",
+    "value": 0.089188101
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "New Caledonia",
+    "type": "HydroPower",
+    "value": 12.08244492
+  },
+  {
+    "Country": "New Zealand",
+    "type": "HydroPower",
+    "value": 56.60887397
+  },
+  {
+    "Country": "Nicaragua",
+    "type": "HydroPower",
+    "value": 6.575095699
+  },
+  {
+    "Country": "Niger",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Nigeria",
+    "type": "HydroPower",
+    "value": 18.97753939
+  },
+  {
+    "Country": "Norway",
+    "type": "HydroPower",
+    "value": 96.43561992
+  },
+  {
+    "Country": "Oman",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Pakistan",
+    "type": "HydroPower",
+    "value": 32.18971123
+  },
+  {
+    "Country": "Panama",
+    "type": "HydroPower",
+    "value": 61.79169992
+  },
+  {
+    "Country": "Papua New Guinea",
+    "type": "HydroPower",
+    "value": 23.75690608
+  },
+  {
+    "Country": "Paraguay",
+    "type": "HydroPower",
+    "value": 99.99818811
+  },
+  {
+    "Country": "Peru",
+    "type": "HydroPower",
+    "value": 50.32371479
+  },
+  {
+    "Country": "Philippines",
+    "type": "HydroPower",
+    "value": 10.90821231
+  },
+  {
+    "Country": "Poland",
+    "type": "HydroPower",
+    "value": 1.16812199
+  },
+  {
+    "Country": "Portugal",
+    "type": "HydroPower",
+    "value": 17.52405362
+  },
+  {
+    "Country": "Puerto Rico",
+    "type": "HydroPower",
+    "value": 0.989124551
+  },
+  {
+    "Country": "Qatar",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Romania",
+    "type": "HydroPower",
+    "value": 26.12814166
+  },
+  {
+    "Country": "Russia",
+    "type": "HydroPower",
+    "value": 16.49341505
+  },
+  {
+    "Country": "Rwanda",
+    "type": "HydroPower",
+    "value": 50
+  },
+  {
+    "Country": "Samoa",
+    "type": "HydroPower",
+    "value": 31.49606299
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "type": "HydroPower",
+    "value": 9.090909091
+  },
+  {
+    "Country": "Saudi Arabia",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Senegal",
+    "type": "HydroPower",
+    "value": 9.22951266
+  },
+  {
+    "Country": "Serbia",
+    "type": "HydroPower",
+    "value": 28.14315528
+  },
+  {
+    "Country": "Seychelles",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Sierra Leone",
+    "type": "HydroPower",
+    "value": 62.85714286
+  },
+  {
+    "Country": "Singapore",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Slovakia",
+    "type": "HydroPower",
+    "value": 14.89455892
+  },
+  {
+    "Country": "Slovenia",
+    "type": "HydroPower",
+    "value": 26.59951766
+  },
+  {
+    "Country": "Solomon Islands",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Somalia",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "South Africa",
+    "type": "HydroPower",
+    "value": 0.343900429
+  },
+  {
+    "Country": "South Sudan",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Spain",
+    "type": "HydroPower",
+    "value": 10.46794627
+  },
+  {
+    "Country": "Sri Lanka",
+    "type": "HydroPower",
+    "value": 46.48729447
+  },
+  {
+    "Country": "Sudan",
+    "type": "HydroPower",
+    "value": 65.7154119
+  },
+  {
+    "Country": "Suriname",
+    "type": "HydroPower",
+    "value": 61.27853881
+  },
+  {
+    "Country": "Swaziland",
+    "type": "HydroPower",
+    "value": 53.5962877
+  },
+  {
+    "Country": "Sweden",
+    "type": "HydroPower",
+    "value": 46.91723848
+  },
+  {
+    "Country": "Switzerland",
+    "type": "HydroPower",
+    "value": 59.12127361
+  },
+  {
+    "Country": "Syria",
+    "type": "HydroPower",
+    "value": 2.430328599
+  },
+  {
+    "Country": "Taiwan",
+    "type": "HydroPower",
+    "value": 1.84065157
+  },
+  {
+    "Country": "Tajikistan",
+    "type": "HydroPower",
+    "value": 98.55098074
+  },
+  {
+    "Country": "Tanzania",
+    "type": "HydroPower",
+    "value": 34.63900415
+  },
+  {
+    "Country": "Thailand",
+    "type": "HydroPower",
+    "value": 2.793505635
+  },
+  {
+    "Country": "Togo",
+    "type": "HydroPower",
+    "value": 69.62025316
+  },
+  {
+    "Country": "Tonga",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Tunisia",
+    "type": "HydroPower",
+    "value": 0.371017023
+  },
+  {
+    "Country": "Turkey",
+    "type": "HydroPower",
+    "value": 26.4627526
+  },
+  {
+    "Country": "Turkmenistan",
+    "type": "HydroPower",
+    "value": 0.014160963
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Uganda",
+    "type": "HydroPower",
+    "value": 80.83462133
+  },
+  {
+    "Country": "Ukraine",
+    "type": "HydroPower",
+    "value": 3.512312486
+  },
+  {
+    "Country": "United Arab Emirates",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "United Kingdom",
+    "type": "HydroPower",
+    "value": 1.960710357
+  },
+  {
+    "Country": "United States",
+    "type": "HydroPower",
+    "value": 6.079530352
+  },
+  {
+    "Country": "Uruguay",
+    "type": "HydroPower",
+    "value": 60.32881156
+  },
+  {
+    "Country": "Uzbekistan",
+    "type": "HydroPower",
+    "value": 21.4982636
+  },
+  {
+    "Country": "Vanuatu",
+    "type": "HydroPower",
+    "value": 0
+  },
+  {
+    "Country": "Vietnam",
+    "type": "HydroPower",
+    "value": 37.82249391
+  },
+  {
+    "Country": "Zambia",
+    "type": "HydroPower",
+    "value": 97.13963116
+  },
+  {
+    "Country": "Zimbabwe",
+    "type": "HydroPower",
+    "value": 52.64279625
+  },
+  {
+    "Country": "Afghanistan",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Albania",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Algeria",
+    "type": "WindPower",
+    "value": 0.02937357
+  },
+  {
+    "Country": "American Samoa",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Angola",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Argentina",
+    "type": "WindPower",
+    "value": 0.448373525
+  },
+  {
+    "Country": "Armenia",
+    "type": "WindPower",
+    "value": 0.040584416
+  },
+  {
+    "Country": "Aruba",
+    "type": "WindPower",
+    "value": 17.78006166
+  },
+  {
+    "Country": "Australia",
+    "type": "WindPower",
+    "value": 4.79499885
+  },
+  {
+    "Country": "Austria",
+    "type": "WindPower",
+    "value": 8.010186161
+  },
+  {
+    "Country": "Azerbaijan",
+    "type": "WindPower",
+    "value": 0.021459227
+  },
+  {
+    "Country": "Bahamas, The",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Bahrain",
+    "type": "WindPower",
+    "value": 0.003734688
+  },
+  {
+    "Country": "Bangladesh",
+    "type": "WindPower",
+    "value": 0.007206688
+  },
+  {
+    "Country": "Barbados",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Belarus",
+    "type": "WindPower",
+    "value": 0.081108061
+  },
+  {
+    "Country": "Belgium",
+    "type": "WindPower",
+    "value": 8.356033053
+  },
+  {
+    "Country": "Belize",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Benin",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Bermuda",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Bhutan",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Bolivia",
+    "type": "WindPower",
+    "value": 0.1472212
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "type": "WindPower",
+    "value": 0.006680473
+  },
+  {
+    "Country": "Botswana",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Brazil",
+    "type": "WindPower",
+    "value": 3.803745714
+  },
+  {
+    "Country": "Brunei",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Bulgaria",
+    "type": "WindPower",
+    "value": 3.133983185
+  },
+  {
+    "Country": "Burkina Faso",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Burundi",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Cambodia",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Cameroon",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Canada",
+    "type": "WindPower",
+    "value": 4.046704634
+  },
+  {
+    "Country": "Cape Verde",
+    "type": "WindPower",
+    "value": 30.73593074
+  },
+  {
+    "Country": "Cayman Islands",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Central African Republic",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Chad",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Chile",
+    "type": "WindPower",
+    "value": 2.919869491
+  },
+  {
+    "Country": "China",
+    "type": "WindPower",
+    "value": 3.328174248
+  },
+  {
+    "Country": "Colombia",
+    "type": "WindPower",
+    "value": 0.089211371
+  },
+  {
+    "Country": "Comoros",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Congo (Brazzaville)",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Congo (Kinshasa)",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Costa Rica",
+    "type": "WindPower",
+    "value": 10.06993007
+  },
+  {
+    "Country": "Croatia",
+    "type": "WindPower",
+    "value": 7.348888481
+  },
+  {
+    "Country": "Cuba",
+    "type": "WindPower",
+    "value": 0.104607982
+  },
+  {
+    "Country": "Cyprus",
+    "type": "WindPower",
+    "value": 5.136586505
+  },
+  {
+    "Country": "Czech Republic",
+    "type": "WindPower",
+    "value": 0.723371451
+  },
+  {
+    "Country": "Denmark",
+    "type": "WindPower",
+    "value": 49.77635333
+  },
+  {
+    "Country": "Djibouti",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Dominica",
+    "type": "WindPower",
+    "value": 1.063829787
+  },
+  {
+    "Country": "Dominican Republic",
+    "type": "WindPower",
+    "value": 4.634364613
+  },
+  {
+    "Country": "Ecuador",
+    "type": "WindPower",
+    "value": 0.400432467
+  },
+  {
+    "Country": "Egypt",
+    "type": "WindPower",
+    "value": 0.782768615
+  },
+  {
+    "Country": "El Salvador",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Eritrea",
+    "type": "WindPower",
+    "value": 0.520833333
+  },
+  {
+    "Country": "Estonia",
+    "type": "WindPower",
+    "value": 7.229524772
+  },
+  {
+    "Country": "Ethiopia",
+    "type": "WindPower",
+    "value": 7.349385939
+  },
+  {
+    "Country": "Faroe Islands",
+    "type": "WindPower",
+    "value": 18.24104235
+  },
+  {
+    "Country": "Fiji",
+    "type": "WindPower",
+    "value": 0.67264574
+  },
+  {
+    "Country": "Finland",
+    "type": "WindPower",
+    "value": 3.504834774
+  },
+  {
+    "Country": "France",
+    "type": "WindPower",
+    "value": 3.934103899
+  },
+  {
+    "Country": "French Polynesia",
+    "type": "WindPower",
+    "value": 0.159744409
+  },
+  {
+    "Country": "Gabon",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Gambia, The",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Georgia",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Germany",
+    "type": "WindPower",
+    "value": 12.9260486
+  },
+  {
+    "Country": "Ghana",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Gibraltar",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Greece",
+    "type": "WindPower",
+    "value": 9.378551713
+  },
+  {
+    "Country": "Greenland",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Grenada",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Guadeloupe",
+    "type": "WindPower",
+    "value": 3.405370007
+  },
+  {
+    "Country": "Guam",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Guatemala",
+    "type": "WindPower",
+    "value": 1.022304833
+  },
+  {
+    "Country": "Guinea",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Guyana",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Haiti",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Honduras",
+    "type": "WindPower",
+    "value": 7.703892493
+  },
+  {
+    "Country": "Hong Kong",
+    "type": "WindPower",
+    "value": 0.005593623
+  },
+  {
+    "Country": "Hungary",
+    "type": "WindPower",
+    "value": 2.337327574
+  },
+  {
+    "Country": "Iceland",
+    "type": "WindPower",
+    "value": 0.053885117
+  },
+  {
+    "Country": "India",
+    "type": "WindPower",
+    "value": 3.305515708
+  },
+  {
+    "Country": "Indonesia",
+    "type": "WindPower",
+    "value": 0.001807452
+  },
+  {
+    "Country": "Iran",
+    "type": "WindPower",
+    "value": 0.083027954
+  },
+  {
+    "Country": "Iraq",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Ireland",
+    "type": "WindPower",
+    "value": 24.67527592
+  },
+  {
+    "Country": "Israel",
+    "type": "WindPower",
+    "value": 0.011580776
+  },
+  {
+    "Country": "Italy",
+    "type": "WindPower",
+    "value": 5.468154489
+  },
+  {
+    "Country": "Jamaica",
+    "type": "WindPower",
+    "value": 3.205950244
+  },
+  {
+    "Country": "Japan",
+    "type": "WindPower",
+    "value": 0.528475726
+  },
+  {
+    "Country": "Jordan",
+    "type": "WindPower",
+    "value": 0.68780406
+  },
+  {
+    "Country": "Kazakhstan",
+    "type": "WindPower",
+    "value": 0.131268833
+  },
+  {
+    "Country": "Kenya",
+    "type": "WindPower",
+    "value": 0.627090301
+  },
+  {
+    "Country": "Kiribati",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Korea, North",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Korea, South",
+    "type": "WindPower",
+    "value": 0.232506364
+  },
+  {
+    "Country": "Kosovo",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Kuwait",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Latvia",
+    "type": "WindPower",
+    "value": 2.729482146
+  },
+  {
+    "Country": "Lebanon",
+    "type": "WindPower",
+    "value": 0.034638033
+  },
+  {
+    "Country": "Lesotho",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Liberia",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Libya",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Lithuania",
+    "type": "WindPower",
+    "value": 22.48126561
+  },
+  {
+    "Country": "Luxembourg",
+    "type": "WindPower",
+    "value": 13.47424042
+  },
+  {
+    "Country": "Macedonia",
+    "type": "WindPower",
+    "value": 1.975959164
+  },
+  {
+    "Country": "Madagascar",
+    "type": "WindPower",
+    "value": 0.066312997
+  },
+  {
+    "Country": "Malawi",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Malaysia",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Maldives",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Mali",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Malta",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Martinique",
+    "type": "WindPower",
+    "value": 0.124843945
+  },
+  {
+    "Country": "Mauritania",
+    "type": "WindPower",
+    "value": 8.112324493
+  },
+  {
+    "Country": "Mauritius",
+    "type": "WindPower",
+    "value": 0.10500525
+  },
+  {
+    "Country": "Mexico",
+    "type": "WindPower",
+    "value": 2.867192641
+  },
+  {
+    "Country": "Moldova",
+    "type": "WindPower",
+    "value": 0.034831069
+  },
+  {
+    "Country": "Mongolia",
+    "type": "WindPower",
+    "value": 3.274268105
+  },
+  {
+    "Country": "Montenegro",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Morocco",
+    "type": "WindPower",
+    "value": 9.010619659
+  },
+  {
+    "Country": "Mozambique",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Myanmar",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Namibia",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Nauru",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Nepal",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Netherlands",
+    "type": "WindPower",
+    "value": 7.240539348
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "type": "WindPower",
+    "value": 20
+  },
+  {
+    "Country": "New Caledonia",
+    "type": "WindPower",
+    "value": 2.274342573
+  },
+  {
+    "Country": "New Zealand",
+    "type": "WindPower",
+    "value": 5.436707681
+  },
+  {
+    "Country": "Nicaragua",
+    "type": "WindPower",
+    "value": 19.47759514
+  },
+  {
+    "Country": "Niger",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Nigeria",
+    "type": "WindPower",
+    "value": 0.01005699
+  },
+  {
+    "Country": "Norway",
+    "type": "WindPower",
+    "value": 1.766387369
+  },
+  {
+    "Country": "Oman",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Pakistan",
+    "type": "WindPower",
+    "value": 0.803212851
+  },
+  {
+    "Country": "Panama",
+    "type": "WindPower",
+    "value": 4.189944134
+  },
+  {
+    "Country": "Papua New Guinea",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Paraguay",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Peru",
+    "type": "WindPower",
+    "value": 1.275564893
+  },
+  {
+    "Country": "Philippines",
+    "type": "WindPower",
+    "value": 0.953737379
+  },
+  {
+    "Country": "Poland",
+    "type": "WindPower",
+    "value": 6.908276022
+  },
+  {
+    "Country": "Portugal",
+    "type": "WindPower",
+    "value": 23.35591221
+  },
+  {
+    "Country": "Puerto Rico",
+    "type": "WindPower",
+    "value": 1.176123222
+  },
+  {
+    "Country": "Qatar",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Romania",
+    "type": "WindPower",
+    "value": 11.20208175
+  },
+  {
+    "Country": "Russia",
+    "type": "WindPower",
+    "value": 0.01487564
+  },
+  {
+    "Country": "Rwanda",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Samoa",
+    "type": "WindPower",
+    "value": 1.57480315
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Saudi Arabia",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Senegal",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Serbia",
+    "type": "WindPower",
+    "value": 0.002820238
+  },
+  {
+    "Country": "Seychelles",
+    "type": "WindPower",
+    "value": 2.017291066
+  },
+  {
+    "Country": "Sierra Leone",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Singapore",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Slovakia",
+    "type": "WindPower",
+    "value": 0.024146813
+  },
+  {
+    "Country": "Slovenia",
+    "type": "WindPower",
+    "value": 0.042559228
+  },
+  {
+    "Country": "Solomon Islands",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Somalia",
+    "type": "WindPower",
+    "value": 1.449275362
+  },
+  {
+    "Country": "South Africa",
+    "type": "WindPower",
+    "value": 0.984431242
+  },
+  {
+    "Country": "South Sudan",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Spain",
+    "type": "WindPower",
+    "value": 18.21443847
+  },
+  {
+    "Country": "Sri Lanka",
+    "type": "WindPower",
+    "value": 2.674848556
+  },
+  {
+    "Country": "Sudan",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Suriname",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Swaziland",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Sweden",
+    "type": "WindPower",
+    "value": 10.2128835
+  },
+  {
+    "Country": "Switzerland",
+    "type": "WindPower",
+    "value": 0.171687217
+  },
+  {
+    "Country": "Syria",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Taiwan",
+    "type": "WindPower",
+    "value": 0.634764813
+  },
+  {
+    "Country": "Tajikistan",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Tanzania",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Thailand",
+    "type": "WindPower",
+    "value": 0.196474182
+  },
+  {
+    "Country": "Togo",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Tonga",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Tunisia",
+    "type": "WindPower",
+    "value": 2.455259712
+  },
+  {
+    "Country": "Turkey",
+    "type": "WindPower",
+    "value": 4.657582686
+  },
+  {
+    "Country": "Turkmenistan",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Uganda",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Ukraine",
+    "type": "WindPower",
+    "value": 0.709956482
+  },
+  {
+    "Country": "United Arab Emirates",
+    "type": "WindPower",
+    "value": 0.001670244
+  },
+  {
+    "Country": "United Kingdom",
+    "type": "WindPower",
+    "value": 12.67012416
+  },
+  {
+    "Country": "United States",
+    "type": "WindPower",
+    "value": 4.655058412
+  },
+  {
+    "Country": "Uruguay",
+    "type": "WindPower",
+    "value": 15.22412268
+  },
+  {
+    "Country": "Uzbekistan",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Vanuatu",
+    "type": "WindPower",
+    "value": 9.090909091
+  },
+  {
+    "Country": "Vietnam",
+    "type": "WindPower",
+    "value": 0.081687111
+  },
+  {
+    "Country": "Zambia",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Zimbabwe",
+    "type": "WindPower",
+    "value": 0
+  },
+  {
+    "Country": "Afghanistan",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Albania",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Algeria",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "American Samoa",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Angola",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Argentina",
+    "type": "BiomassWaste",
+    "value": 1.597704328
+  },
+  {
+    "Country": "Armenia",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Aruba",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Australia",
+    "type": "BiomassWaste",
+    "value": 1.508708106
+  },
+  {
+    "Country": "Austria",
+    "type": "BiomassWaste",
+    "value": 9.114857745
+  },
+  {
+    "Country": "Azerbaijan",
+    "type": "BiomassWaste",
+    "value": 0.78111588
+  },
+  {
+    "Country": "Bahamas, The",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Bahrain",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Bangladesh",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Barbados",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Belarus",
+    "type": "BiomassWaste",
+    "value": 0.580234589
+  },
+  {
+    "Country": "Belgium",
+    "type": "BiomassWaste",
+    "value": 10.2917231
+  },
+  {
+    "Country": "Belize",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Benin",
+    "type": "BiomassWaste",
+    "value": 0.320512821
+  },
+  {
+    "Country": "Bermuda",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Bhutan",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Bolivia",
+    "type": "BiomassWaste",
+    "value": 2.355539198
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Botswana",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Brazil",
+    "type": "BiomassWaste",
+    "value": 8.582080366
+  },
+  {
+    "Country": "Brunei",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Bulgaria",
+    "type": "BiomassWaste",
+    "value": 0.587892018
+  },
+  {
+    "Country": "Burkina Faso",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Burundi",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Cambodia",
+    "type": "BiomassWaste",
+    "value": 0.89707271
+  },
+  {
+    "Country": "Cameroon",
+    "type": "BiomassWaste",
+    "value": 1.149773071
+  },
+  {
+    "Country": "Canada",
+    "type": "BiomassWaste",
+    "value": 1.97451491
+  },
+  {
+    "Country": "Cape Verde",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Cayman Islands",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Central African Republic",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Chad",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Chile",
+    "type": "BiomassWaste",
+    "value": 7.762815904
+  },
+  {
+    "Country": "China",
+    "type": "BiomassWaste",
+    "value": 1.141740952
+  },
+  {
+    "Country": "Colombia",
+    "type": "BiomassWaste",
+    "value": 3.277031046
+  },
+  {
+    "Country": "Comoros",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Congo (Brazzaville)",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Congo (Kinshasa)",
+    "type": "BiomassWaste",
+    "value": 0.112968821
+  },
+  {
+    "Country": "Costa Rica",
+    "type": "BiomassWaste",
+    "value": 1.668997669
+  },
+  {
+    "Country": "Croatia",
+    "type": "BiomassWaste",
+    "value": 2.44350542
+  },
+  {
+    "Country": "Cuba",
+    "type": "BiomassWaste",
+    "value": 3.676970553
+  },
+  {
+    "Country": "Cyprus",
+    "type": "BiomassWaste",
+    "value": 1.190754144
+  },
+  {
+    "Country": "Czech Republic",
+    "type": "BiomassWaste",
+    "value": 6.254657587
+  },
+  {
+    "Country": "Denmark",
+    "type": "BiomassWaste",
+    "value": 17.46205051
+  },
+  {
+    "Country": "Djibouti",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Dominica",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Dominican Republic",
+    "type": "BiomassWaste",
+    "value": 0.140628995
+  },
+  {
+    "Country": "Ecuador",
+    "type": "BiomassWaste",
+    "value": 1.633764466
+  },
+  {
+    "Country": "Egypt",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "El Salvador",
+    "type": "BiomassWaste",
+    "value": 9.631632308
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Eritrea",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Estonia",
+    "type": "BiomassWaste",
+    "value": 8.978766431
+  },
+  {
+    "Country": "Ethiopia",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Faroe Islands",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Fiji",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Finland",
+    "type": "BiomassWaste",
+    "value": 17.7802211
+  },
+  {
+    "Country": "France",
+    "type": "BiomassWaste",
+    "value": 1.512803565
+  },
+  {
+    "Country": "French Polynesia",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Gabon",
+    "type": "BiomassWaste",
+    "value": 0.488997555
+  },
+  {
+    "Country": "Gambia, The",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Georgia",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Germany",
+    "type": "BiomassWaste",
+    "value": 9.403757307
+  },
+  {
+    "Country": "Ghana",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Gibraltar",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Greece",
+    "type": "BiomassWaste",
+    "value": 0.696135736
+  },
+  {
+    "Country": "Greenland",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Grenada",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Guadeloupe",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Guam",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Guatemala",
+    "type": "BiomassWaste",
+    "value": 21.32899628
+  },
+  {
+    "Country": "Guinea",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Guyana",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Haiti",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Honduras",
+    "type": "BiomassWaste",
+    "value": 9.094068582
+  },
+  {
+    "Country": "Hong Kong",
+    "type": "BiomassWaste",
+    "value": 0.288071598
+  },
+  {
+    "Country": "Hungary",
+    "type": "BiomassWaste",
+    "value": 8.018670754
+  },
+  {
+    "Country": "Iceland",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "India",
+    "type": "BiomassWaste",
+    "value": 2.050362185
+  },
+  {
+    "Country": "Indonesia",
+    "type": "BiomassWaste",
+    "value": 0.512412677
+  },
+  {
+    "Country": "Iran",
+    "type": "BiomassWaste",
+    "value": 0.005283597
+  },
+  {
+    "Country": "Iraq",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Ireland",
+    "type": "BiomassWaste",
+    "value": 2.064719574
+  },
+  {
+    "Country": "Israel",
+    "type": "BiomassWaste",
+    "value": 0.112498966
+  },
+  {
+    "Country": "Italy",
+    "type": "BiomassWaste",
+    "value": 8.115594986
+  },
+  {
+    "Country": "Jamaica",
+    "type": "BiomassWaste",
+    "value": 4.334444729
+  },
+  {
+    "Country": "Japan",
+    "type": "BiomassWaste",
+    "value": 4.246241012
+  },
+  {
+    "Country": "Jordan",
+    "type": "BiomassWaste",
+    "value": 0.033551418
+  },
+  {
+    "Country": "Kazakhstan",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Kenya",
+    "type": "BiomassWaste",
+    "value": 1.275083612
+  },
+  {
+    "Country": "Kiribati",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Korea, North",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Korea, South",
+    "type": "BiomassWaste",
+    "value": 0.609821022
+  },
+  {
+    "Country": "Kosovo",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Kuwait",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Latvia",
+    "type": "BiomassWaste",
+    "value": 14.37651898
+  },
+  {
+    "Country": "Lebanon",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Lesotho",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Liberia",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Libya",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Lithuania",
+    "type": "BiomassWaste",
+    "value": 14.07160699
+  },
+  {
+    "Country": "Luxembourg",
+    "type": "BiomassWaste",
+    "value": 25.36327609
+  },
+  {
+    "Country": "Macedonia",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Madagascar",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Malawi",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Malaysia",
+    "type": "BiomassWaste",
+    "value": 0.529354132
+  },
+  {
+    "Country": "Maldives",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Mali",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Malta",
+    "type": "BiomassWaste",
+    "value": 0.570032573
+  },
+  {
+    "Country": "Martinique",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Mauritania",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Mauritius",
+    "type": "BiomassWaste",
+    "value": 18.55092755
+  },
+  {
+    "Country": "Mexico",
+    "type": "BiomassWaste",
+    "value": 0.60647586
+  },
+  {
+    "Country": "Moldova",
+    "type": "BiomassWaste",
+    "value": 0.26123302
+  },
+  {
+    "Country": "Mongolia",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Montenegro",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Morocco",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Mozambique",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Myanmar",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Namibia",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Nauru",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Nepal",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Netherlands",
+    "type": "BiomassWaste",
+    "value": 6.29495368
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "New Caledonia",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "New Zealand",
+    "type": "BiomassWaste",
+    "value": 1.444817301
+  },
+  {
+    "Country": "Nicaragua",
+    "type": "BiomassWaste",
+    "value": 10.22292277
+  },
+  {
+    "Country": "Niger",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Nigeria",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Norway",
+    "type": "BiomassWaste",
+    "value": 0.294280838
+  },
+  {
+    "Country": "Oman",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Pakistan",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Panama",
+    "type": "BiomassWaste",
+    "value": 0.339185954
+  },
+  {
+    "Country": "Papua New Guinea",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Paraguay",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Peru",
+    "type": "BiomassWaste",
+    "value": 1.944432534
+  },
+  {
+    "Country": "Philippines",
+    "type": "BiomassWaste",
+    "value": 0.466695491
+  },
+  {
+    "Country": "Poland",
+    "type": "BiomassWaste",
+    "value": 6.44656518
+  },
+  {
+    "Country": "Portugal",
+    "type": "BiomassWaste",
+    "value": 6.924187873
+  },
+  {
+    "Country": "Puerto Rico",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Qatar",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Romania",
+    "type": "BiomassWaste",
+    "value": 0.831429297
+  },
+  {
+    "Country": "Russia",
+    "type": "BiomassWaste",
+    "value": 0.279562855
+  },
+  {
+    "Country": "Rwanda",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Samoa",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Saudi Arabia",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Senegal",
+    "type": "BiomassWaste",
+    "value": 1.79689627
+  },
+  {
+    "Country": "Serbia",
+    "type": "BiomassWaste",
+    "value": 0.078966665
+  },
+  {
+    "Country": "Seychelles",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Sierra Leone",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Singapore",
+    "type": "BiomassWaste",
+    "value": 3.131647116
+  },
+  {
+    "Country": "Slovakia",
+    "type": "BiomassWaste",
+    "value": 6.793303284
+  },
+  {
+    "Country": "Slovenia",
+    "type": "BiomassWaste",
+    "value": 1.950631295
+  },
+  {
+    "Country": "Solomon Islands",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Somalia",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "South Africa",
+    "type": "BiomassWaste",
+    "value": 0.134437747
+  },
+  {
+    "Country": "South Sudan",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Spain",
+    "type": "BiomassWaste",
+    "value": 2.472397491
+  },
+  {
+    "Country": "Sri Lanka",
+    "type": "BiomassWaste",
+    "value": 0.448430493
+  },
+  {
+    "Country": "Sudan",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Suriname",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Swaziland",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Sweden",
+    "type": "BiomassWaste",
+    "value": 7.513387616
+  },
+  {
+    "Country": "Switzerland",
+    "type": "BiomassWaste",
+    "value": 4.392071172
+  },
+  {
+    "Country": "Syria",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Taiwan",
+    "type": "BiomassWaste",
+    "value": 1.575680937
+  },
+  {
+    "Country": "Tajikistan",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Tanzania",
+    "type": "BiomassWaste",
+    "value": 0.348547718
+  },
+  {
+    "Country": "Thailand",
+    "type": "BiomassWaste",
+    "value": 4.602854234
+  },
+  {
+    "Country": "Togo",
+    "type": "BiomassWaste",
+    "value": 6.329113924
+  },
+  {
+    "Country": "Tonga",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Tunisia",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Turkey",
+    "type": "BiomassWaste",
+    "value": 0.542065313
+  },
+  {
+    "Country": "Turkmenistan",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Uganda",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Ukraine",
+    "type": "BiomassWaste",
+    "value": 0.095318231
+  },
+  {
+    "Country": "United Arab Emirates",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "United Kingdom",
+    "type": "BiomassWaste",
+    "value": 10.36366494
+  },
+  {
+    "Country": "United States",
+    "type": "BiomassWaste",
+    "value": 1.895520825
+  },
+  {
+    "Country": "Uruguay",
+    "type": "BiomassWaste",
+    "value": 13.18195223
+  },
+  {
+    "Country": "Uzbekistan",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Vanuatu",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Vietnam",
+    "type": "BiomassWaste",
+    "value": 0.040843556
+  },
+  {
+    "Country": "Zambia",
+    "type": "BiomassWaste",
+    "value": 0
+  },
+  {
+    "Country": "Zimbabwe",
+    "type": "BiomassWaste",
+    "value": 1.374680307
+  },
+  {
+    "Country": "Afghanistan",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Albania",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Algeria",
+    "type": "SolarPower",
+    "value": 0.092758642
+  },
+  {
+    "Country": "American Samoa",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Angola",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Argentina",
+    "type": "SolarPower",
+    "value": 0.011209338
+  },
+  {
+    "Country": "Armenia",
+    "type": "SolarPower",
+    "value": 0.013528139
+  },
+  {
+    "Country": "Aruba",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Australia",
+    "type": "SolarPower",
+    "value": 2.495557089
+  },
+  {
+    "Country": "Austria",
+    "type": "SolarPower",
+    "value": 1.550755181
+  },
+  {
+    "Country": "Azerbaijan",
+    "type": "SolarPower",
+    "value": 0.021459227
+  },
+  {
+    "Country": "Bahamas, The",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Bahrain",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Bangladesh",
+    "type": "SolarPower",
+    "value": 0.270250793
+  },
+  {
+    "Country": "Barbados",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Belarus",
+    "type": "SolarPower",
+    "value": 0.024956326
+  },
+  {
+    "Country": "Belgium",
+    "type": "SolarPower",
+    "value": 4.630742775
+  },
+  {
+    "Country": "Belize",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Benin",
+    "type": "SolarPower",
+    "value": 1.602564103
+  },
+  {
+    "Country": "Bermuda",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Bhutan",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Bolivia",
+    "type": "SolarPower",
+    "value": 0.122684333
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Botswana",
+    "type": "SolarPower",
+    "value": 0.035855145
+  },
+  {
+    "Country": "Brazil",
+    "type": "SolarPower",
+    "value": 0.010551306
+  },
+  {
+    "Country": "Brunei",
+    "type": "SolarPower",
+    "value": 0.050658561
+  },
+  {
+    "Country": "Bulgaria",
+    "type": "SolarPower",
+    "value": 2.982687445
+  },
+  {
+    "Country": "Burkina Faso",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Burundi",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Cambodia",
+    "type": "SolarPower",
+    "value": 0.07082153
+  },
+  {
+    "Country": "Cameroon",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Canada",
+    "type": "SolarPower",
+    "value": 0.442936735
+  },
+  {
+    "Country": "Cape Verde",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Cayman Islands",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Central African Republic",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Chad",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Chile",
+    "type": "SolarPower",
+    "value": 1.711552287
+  },
+  {
+    "Country": "China",
+    "type": "SolarPower",
+    "value": 0.810679252
+  },
+  {
+    "Country": "Colombia",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Comoros",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Congo (Brazzaville)",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Congo (Kinshasa)",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Costa Rica",
+    "type": "SolarPower",
+    "value": 0.027972028
+  },
+  {
+    "Country": "Croatia",
+    "type": "SolarPower",
+    "value": 0.551166636
+  },
+  {
+    "Country": "Cuba",
+    "type": "SolarPower",
+    "value": 0.156911972
+  },
+  {
+    "Country": "Cyprus",
+    "type": "SolarPower",
+    "value": 2.91851506
+  },
+  {
+    "Country": "Czech Republic",
+    "type": "SolarPower",
+    "value": 2.88320699
+  },
+  {
+    "Country": "Denmark",
+    "type": "SolarPower",
+    "value": 2.127284894
+  },
+  {
+    "Country": "Djibouti",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Dominica",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Dominican Republic",
+    "type": "SolarPower",
+    "value": 1.438251087
+  },
+  {
+    "Country": "Ecuador",
+    "type": "SolarPower",
+    "value": 0.160172987
+  },
+  {
+    "Country": "Egypt",
+    "type": "SolarPower",
+    "value": 0.147241977
+  },
+  {
+    "Country": "El Salvador",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Eritrea",
+    "type": "SolarPower",
+    "value": 0.520833333
+  },
+  {
+    "Country": "Estonia",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Ethiopia",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Faroe Islands",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Fiji",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Finland",
+    "type": "SolarPower",
+    "value": 0.015061602
+  },
+  {
+    "Country": "France",
+    "type": "SolarPower",
+    "value": 1.343953137
+  },
+  {
+    "Country": "French Polynesia",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Gabon",
+    "type": "SolarPower",
+    "value": 0.097799511
+  },
+  {
+    "Country": "Gambia, The",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Georgia",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Germany",
+    "type": "SolarPower",
+    "value": 6.346745421
+  },
+  {
+    "Country": "Ghana",
+    "type": "SolarPower",
+    "value": 0.027041644
+  },
+  {
+    "Country": "Gibraltar",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Greece",
+    "type": "SolarPower",
+    "value": 7.915245981
+  },
+  {
+    "Country": "Greenland",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Grenada",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Guadeloupe",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Guam",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Guatemala",
+    "type": "SolarPower",
+    "value": 1.394052045
+  },
+  {
+    "Country": "Guinea",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Guyana",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Haiti",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Honduras",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Hong Kong",
+    "type": "SolarPower",
+    "value": 0.002796812
+  },
+  {
+    "Country": "Hungary",
+    "type": "SolarPower",
+    "value": 0.4214853
+  },
+  {
+    "Country": "Iceland",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "India",
+    "type": "SolarPower",
+    "value": 0.435688446
+  },
+  {
+    "Country": "Indonesia",
+    "type": "SolarPower",
+    "value": 0.002259315
+  },
+  {
+    "Country": "Iran",
+    "type": "SolarPower",
+    "value": 0.0003774
+  },
+  {
+    "Country": "Iraq",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Ireland",
+    "type": "SolarPower",
+    "value": 0.007508071
+  },
+  {
+    "Country": "Israel",
+    "type": "SolarPower",
+    "value": 1.844652163
+  },
+  {
+    "Country": "Italy",
+    "type": "SolarPower",
+    "value": 8.398930613
+  },
+  {
+    "Country": "Jamaica",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Japan",
+    "type": "SolarPower",
+    "value": 3.672496628
+  },
+  {
+    "Country": "Jordan",
+    "type": "SolarPower",
+    "value": 0.011183806
+  },
+  {
+    "Country": "Kazakhstan",
+    "type": "SolarPower",
+    "value": 0.049723043
+  },
+  {
+    "Country": "Kenya",
+    "type": "SolarPower",
+    "value": 0.25083612
+  },
+  {
+    "Country": "Kiribati",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Korea, North",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Korea, South",
+    "type": "SolarPower",
+    "value": 0.751144624
+  },
+  {
+    "Country": "Kosovo",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Kuwait",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Latvia",
+    "type": "SolarPower",
+    "value": 0.018695083
+  },
+  {
+    "Country": "Lebanon",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Lesotho",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Liberia",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Libya",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Lithuania",
+    "type": "SolarPower",
+    "value": 1.942825423
+  },
+  {
+    "Country": "Luxembourg",
+    "type": "SolarPower",
+    "value": 13.73844122
+  },
+  {
+    "Country": "Macedonia",
+    "type": "SolarPower",
+    "value": 0.329326527
+  },
+  {
+    "Country": "Madagascar",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Malawi",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Malaysia",
+    "type": "SolarPower",
+    "value": 0.190313736
+  },
+  {
+    "Country": "Maldives",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Mali",
+    "type": "SolarPower",
+    "value": 0.275862069
+  },
+  {
+    "Country": "Malta",
+    "type": "SolarPower",
+    "value": 7.328990228
+  },
+  {
+    "Country": "Martinique",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Mauritania",
+    "type": "SolarPower",
+    "value": 1.404056162
+  },
+  {
+    "Country": "Mauritius",
+    "type": "SolarPower",
+    "value": 0.910045502
+  },
+  {
+    "Country": "Mexico",
+    "type": "SolarPower",
+    "value": 0.083102117
+  },
+  {
+    "Country": "Moldova",
+    "type": "SolarPower",
+    "value": 0.034831069
+  },
+  {
+    "Country": "Mongolia",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Montenegro",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Morocco",
+    "type": "SolarPower",
+    "value": 0.021453856
+  },
+  {
+    "Country": "Mozambique",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Myanmar",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Namibia",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Nauru",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Nepal",
+    "type": "SolarPower",
+    "value": 0.91611795
+  },
+  {
+    "Country": "Netherlands",
+    "type": "SolarPower",
+    "value": 1.076011278
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "New Caledonia",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "New Zealand",
+    "type": "SolarPower",
+    "value": 0.076901566
+  },
+  {
+    "Country": "Nicaragua",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Niger",
+    "type": "SolarPower",
+    "value": 0.801603206
+  },
+  {
+    "Country": "Nigeria",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Norway",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Oman",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Pakistan",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Panama",
+    "type": "SolarPower",
+    "value": 0.199521149
+  },
+  {
+    "Country": "Papua New Guinea",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Paraguay",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Peru",
+    "type": "SolarPower",
+    "value": 0.493075505
+  },
+  {
+    "Country": "Philippines",
+    "type": "SolarPower",
+    "value": 0.178030977
+  },
+  {
+    "Country": "Poland",
+    "type": "SolarPower",
+    "value": 0.036705046
+  },
+  {
+    "Country": "Portugal",
+    "type": "SolarPower",
+    "value": 1.615101402
+  },
+  {
+    "Country": "Puerto Rico",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Qatar",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Romania",
+    "type": "SolarPower",
+    "value": 3.14166032
+  },
+  {
+    "Country": "Russia",
+    "type": "SolarPower",
+    "value": 0.033222262
+  },
+  {
+    "Country": "Rwanda",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Samoa",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Saudi Arabia",
+    "type": "SolarPower",
+    "value": 0.00031443
+  },
+  {
+    "Country": "Senegal",
+    "type": "SolarPower",
+    "value": 0.108902804
+  },
+  {
+    "Country": "Serbia",
+    "type": "SolarPower",
+    "value": 0.02820238
+  },
+  {
+    "Country": "Seychelles",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Sierra Leone",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Singapore",
+    "type": "SolarPower",
+    "value": 0.134785081
+  },
+  {
+    "Country": "Slovakia",
+    "type": "SolarPower",
+    "value": 2.036381198
+  },
+  {
+    "Country": "Slovenia",
+    "type": "SolarPower",
+    "value": 1.943538091
+  },
+  {
+    "Country": "Solomon Islands",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Somalia",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "South Africa",
+    "type": "SolarPower",
+    "value": 0.945400928
+  },
+  {
+    "Country": "South Sudan",
+    "type": "SolarPower",
+    "value": 0.64516129
+  },
+  {
+    "Country": "Spain",
+    "type": "SolarPower",
+    "value": 5.053047536
+  },
+  {
+    "Country": "Sri Lanka",
+    "type": "SolarPower",
+    "value": 0.165211234
+  },
+  {
+    "Country": "Sudan",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Suriname",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Swaziland",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Sweden",
+    "type": "SolarPower",
+    "value": 0.060895605
+  },
+  {
+    "Country": "Switzerland",
+    "type": "SolarPower",
+    "value": 1.746527236
+  },
+  {
+    "Country": "Syria",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Taiwan",
+    "type": "SolarPower",
+    "value": 0.34275636
+  },
+  {
+    "Country": "Tajikistan",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Tanzania",
+    "type": "SolarPower",
+    "value": 0.348547718
+  },
+  {
+    "Country": "Thailand",
+    "type": "SolarPower",
+    "value": 1.416995612
+  },
+  {
+    "Country": "Togo",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Tonga",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Tunisia",
+    "type": "SolarPower",
+    "value": 0.218245308
+  },
+  {
+    "Country": "Turkey",
+    "type": "SolarPower",
+    "value": 0.076749055
+  },
+  {
+    "Country": "Turkmenistan",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Uganda",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Ukraine",
+    "type": "SolarPower",
+    "value": 0.315536214
+  },
+  {
+    "Country": "United Arab Emirates",
+    "type": "SolarPower",
+    "value": 0.246360956
+  },
+  {
+    "Country": "United Kingdom",
+    "type": "SolarPower",
+    "value": 2.376551941
+  },
+  {
+    "Country": "United States",
+    "type": "SolarPower",
+    "value": 0.952690817
+  },
+  {
+    "Country": "Uruguay",
+    "type": "SolarPower",
+    "value": 0.368622825
+  },
+  {
+    "Country": "Uzbekistan",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Vanuatu",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Vietnam",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Zambia",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Zimbabwe",
+    "type": "SolarPower",
+    "value": 0
+  },
+  {
+    "Country": "Afghanistan",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Albania",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Algeria",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "American Samoa",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Angola",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Argentina",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Armenia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Aruba",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Australia",
+    "type": "GeoThermal",
+    "value": 0.000418156
+  },
+  {
+    "Country": "Austria",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Azerbaijan",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Bahamas, The",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Bahrain",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Bangladesh",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Barbados",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Belarus",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Belgium",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Belize",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Benin",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Bermuda",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Bhutan",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Bolivia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Botswana",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Brazil",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Brunei",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Bulgaria",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Burkina Faso",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Burundi",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Cambodia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Cameroon",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Canada",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Cape Verde",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Cayman Islands",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Central African Republic",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Chad",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Chile",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "China",
+    "type": "GeoThermal",
+    "value": 0.002239445
+  },
+  {
+    "Country": "Colombia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Comoros",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Congo (Brazzaville)",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Congo (Kinshasa)",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Costa Rica",
+    "type": "GeoThermal",
+    "value": 12.82051282
+  },
+  {
+    "Country": "Croatia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Cuba",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Cyprus",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Czech Republic",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Denmark",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Djibouti",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Dominica",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Dominican Republic",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Ecuador",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Egypt",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "El Salvador",
+    "type": "GeoThermal",
+    "value": 26.02230483
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Eritrea",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Estonia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Ethiopia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Faroe Islands",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Fiji",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Finland",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "France",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "French Polynesia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Gabon",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Gambia, The",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Georgia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Germany",
+    "type": "GeoThermal",
+    "value": 0.015077741
+  },
+  {
+    "Country": "Ghana",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Gibraltar",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Greece",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Greenland",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Grenada",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Guadeloupe",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Guam",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Guatemala",
+    "type": "GeoThermal",
+    "value": 2.342007435
+  },
+  {
+    "Country": "Guinea",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Guyana",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Haiti",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Honduras",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Hong Kong",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Hungary",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Iceland",
+    "type": "GeoThermal",
+    "value": 26.958724
+  },
+  {
+    "Country": "India",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Indonesia",
+    "type": "GeoThermal",
+    "value": 4.541223464
+  },
+  {
+    "Country": "Iran",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Iraq",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Ireland",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Israel",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Italy",
+    "type": "GeoThermal",
+    "value": 2.165546834
+  },
+  {
+    "Country": "Jamaica",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Japan",
+    "type": "GeoThermal",
+    "value": 0.239350344
+  },
+  {
+    "Country": "Jordan",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Kazakhstan",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Kenya",
+    "type": "GeoThermal",
+    "value": 46.82274247
+  },
+  {
+    "Country": "Kiribati",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Korea, North",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Korea, South",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Kosovo",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Kuwait",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Latvia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Lebanon",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Lesotho",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Liberia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Libya",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Lithuania",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Luxembourg",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Macedonia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Madagascar",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Malawi",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Malaysia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Maldives",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Mali",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Malta",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Martinique",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Mauritania",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Mauritius",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Mexico",
+    "type": "GeoThermal",
+    "value": 2.03345793
+  },
+  {
+    "Country": "Moldova",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Mongolia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Montenegro",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Morocco",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Mozambique",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Myanmar",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Namibia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Nauru",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Nepal",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Netherlands",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "New Caledonia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "New Zealand",
+    "type": "GeoThermal",
+    "value": 17.27022744
+  },
+  {
+    "Country": "Nicaragua",
+    "type": "GeoThermal",
+    "value": 15.3118667
+  },
+  {
+    "Country": "Niger",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Nigeria",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Norway",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Oman",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Pakistan",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Panama",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Papua New Guinea",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Paraguay",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Peru",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Philippines",
+    "type": "GeoThermal",
+    "value": 14.03901422
+  },
+  {
+    "Country": "Poland",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Portugal",
+    "type": "GeoThermal",
+    "value": 0.37021216
+  },
+  {
+    "Country": "Puerto Rico",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Qatar",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Romania",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Russia",
+    "type": "GeoThermal",
+    "value": 0.045618628
+  },
+  {
+    "Country": "Rwanda",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Samoa",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Saudi Arabia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Senegal",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Serbia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Seychelles",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Sierra Leone",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Singapore",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Slovakia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Slovenia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Solomon Islands",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Somalia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "South Africa",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "South Sudan",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Spain",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Sri Lanka",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Sudan",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Suriname",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Swaziland",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Sweden",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Switzerland",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Syria",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Taiwan",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Tajikistan",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Tanzania",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Thailand",
+    "type": "GeoThermal",
+    "value": 0.000595376
+  },
+  {
+    "Country": "Togo",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Tonga",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Tunisia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Turkey",
+    "type": "GeoThermal",
+    "value": 1.174943644
+  },
+  {
+    "Country": "Turkmenistan",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Uganda",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Ukraine",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "United Arab Emirates",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "United Kingdom",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "United States",
+    "type": "GeoThermal",
+    "value": 0.388525631
+  },
+  {
+    "Country": "Uruguay",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Uzbekistan",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Vanuatu",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Vietnam",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Zambia",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Zimbabwe",
+    "type": "GeoThermal",
+    "value": 0
+  },
+  {
+    "Country": "Afghanistan",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Albania",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Algeria",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "American Samoa",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Angola",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Argentina",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Armenia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Aruba",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Australia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Austria",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Azerbaijan",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Bahamas, The",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Bahrain",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Bangladesh",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Barbados",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Belarus",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Belgium",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Belize",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Benin",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Bermuda",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Bhutan",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Bolivia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Botswana",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Brazil",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Brunei",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Bulgaria",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Burkina Faso",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Burundi",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Cambodia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Cameroon",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Canada",
+    "type": "Wave_Tide",
+    "value": 0.002318231
+  },
+  {
+    "Country": "Cape Verde",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Cayman Islands",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Central African Republic",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Chad",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Chile",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "China",
+    "type": "Wave_Tide",
+    "value": 0.000143325
+  },
+  {
+    "Country": "Colombia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Comoros",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Congo (Brazzaville)",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Congo (Kinshasa)",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Costa Rica",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Croatia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Cuba",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Cyprus",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Czech Republic",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Denmark",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Djibouti",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Dominica",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Dominican Republic",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Ecuador",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Egypt",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "El Salvador",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Eritrea",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Estonia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Ethiopia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Faroe Islands",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Fiji",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Finland",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "France",
+    "type": "Wave_Tide",
+    "value": 0.090164648
+  },
+  {
+    "Country": "French Polynesia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Gabon",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Gambia, The",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Georgia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Germany",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Ghana",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Gibraltar",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Greece",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Greenland",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Grenada",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Guadeloupe",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Guam",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Guatemala",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Guinea",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Guyana",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Haiti",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Honduras",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Hong Kong",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Hungary",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Iceland",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "India",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Indonesia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Iran",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Iraq",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Ireland",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Israel",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Italy",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Jamaica",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Japan",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Jordan",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Kazakhstan",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Kenya",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Kiribati",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Korea, North",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Korea, South",
+    "type": "Wave_Tide",
+    "value": 0.102411213
+  },
+  {
+    "Country": "Kosovo",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Kuwait",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Latvia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Lebanon",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Lesotho",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Liberia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Libya",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Lithuania",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Luxembourg",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Macedonia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Madagascar",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Malawi",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Malaysia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Maldives",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Mali",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Malta",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Martinique",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Mauritania",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Mauritius",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Mexico",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Moldova",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Mongolia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Montenegro",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Morocco",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Mozambique",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Myanmar",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Namibia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Nauru",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Nepal",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Netherlands",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "New Caledonia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "New Zealand",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Nicaragua",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Niger",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Nigeria",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Norway",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Oman",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Pakistan",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Panama",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Papua New Guinea",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Paraguay",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Peru",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Philippines",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Poland",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Portugal",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Puerto Rico",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Qatar",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Romania",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Russia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Rwanda",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Samoa",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Saudi Arabia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Senegal",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Serbia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Seychelles",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Sierra Leone",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Singapore",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Slovakia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Slovenia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Solomon Islands",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Somalia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "South Africa",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "South Sudan",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Spain",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Sri Lanka",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Sudan",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Suriname",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Swaziland",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Sweden",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Switzerland",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Syria",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Taiwan",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Tajikistan",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Tanzania",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Thailand",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Togo",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Tonga",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Tunisia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Turkey",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Turkmenistan",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Uganda",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Ukraine",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "United Arab Emirates",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "United Kingdom",
+    "type": "Wave_Tide",
+    "value": 0.000628634
+  },
+  {
+    "Country": "United States",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Uruguay",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Uzbekistan",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Vanuatu",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Vietnam",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Zambia",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Zimbabwe",
+    "type": "Wave_Tide",
+    "value": 0
+  },
+  {
+    "Country": "Afghanistan",
+    "type": "NonRenwable",
+    "value": 13.92649903
+  },
+  {
+    "Country": "Albania",
+    "type": "NonRenwable",
+    "value": 0
+  },
+  {
+    "Country": "Algeria",
+    "type": "NonRenwable",
+    "value": 99.65524705
+  },
+  {
+    "Country": "American Samoa",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Angola",
+    "type": "NonRenwable",
+    "value": 45.53930918
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Argentina",
+    "type": "NonRenwable",
+    "value": 72.78372703
+  },
+  {
+    "Country": "Armenia",
+    "type": "NonRenwable",
+    "value": 70.4004329
+  },
+  {
+    "Country": "Aruba",
+    "type": "NonRenwable",
+    "value": 82.21993834
+  },
+  {
+    "Country": "Australia",
+    "type": "NonRenwable",
+    "value": 85.61333082
+  },
+  {
+    "Country": "Austria",
+    "type": "NonRenwable",
+    "value": 19.99824377
+  },
+  {
+    "Country": "Azerbaijan",
+    "type": "NonRenwable",
+    "value": 92.21888412
+  },
+  {
+    "Country": "Bahamas, The",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Bahrain",
+    "type": "NonRenwable",
+    "value": 99.99626531
+  },
+  {
+    "Country": "Bangladesh",
+    "type": "NonRenwable",
+    "value": 98.71360623
+  },
+  {
+    "Country": "Barbados",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Belarus",
+    "type": "NonRenwable",
+    "value": 98.9830297
+  },
+  {
+    "Country": "Belgium",
+    "type": "NonRenwable",
+    "value": 76.24214387
+  },
+  {
+    "Country": "Belize",
+    "type": "NonRenwable",
+    "value": 4.838709677
+  },
+  {
+    "Country": "Benin",
+    "type": "NonRenwable",
+    "value": 97.43589744
+  },
+  {
+    "Country": "Bermuda",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Bhutan",
+    "type": "NonRenwable",
+    "value": 0.012933264
+  },
+  {
+    "Country": "Bolivia",
+    "type": "NonRenwable",
+    "value": 67.46411483
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "type": "NonRenwable",
+    "value": 63.28412052
+  },
+  {
+    "Country": "Botswana",
+    "type": "NonRenwable",
+    "value": 99.96414485
+  },
+  {
+    "Country": "Brazil",
+    "type": "NonRenwable",
+    "value": 24.97353381
+  },
+  {
+    "Country": "Brunei",
+    "type": "NonRenwable",
+    "value": 99.94934144
+  },
+  {
+    "Country": "Bulgaria",
+    "type": "NonRenwable",
+    "value": 81.18313269
+  },
+  {
+    "Country": "Burkina Faso",
+    "type": "NonRenwable",
+    "value": 90.14830508
+  },
+  {
+    "Country": "Burundi",
+    "type": "NonRenwable",
+    "value": 13.04347826
+  },
+  {
+    "Country": "Cambodia",
+    "type": "NonRenwable",
+    "value": 52.28989613
+  },
+  {
+    "Country": "Cameroon",
+    "type": "NonRenwable",
+    "value": 22.95007564
+  },
+  {
+    "Country": "Canada",
+    "type": "NonRenwable",
+    "value": 35.29368127
+  },
+  {
+    "Country": "Cape Verde",
+    "type": "NonRenwable",
+    "value": 69.26406926
+  },
+  {
+    "Country": "Cayman Islands",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Central African Republic",
+    "type": "NonRenwable",
+    "value": 13.79310345
+  },
+  {
+    "Country": "Chad",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Chile",
+    "type": "NonRenwable",
+    "value": 55.25078803
+  },
+  {
+    "Country": "China",
+    "type": "NonRenwable",
+    "value": 74.95033358
+  },
+  {
+    "Country": "Colombia",
+    "type": "NonRenwable",
+    "value": 30.63964553
+  },
+  {
+    "Country": "Comoros",
+    "type": "NonRenwable",
+    "value": 96.2962963
+  },
+  {
+    "Country": "Congo (Brazzaville)",
+    "type": "NonRenwable",
+    "value": 45.34606205
+  },
+  {
+    "Country": "Congo (Kinshasa)",
+    "type": "NonRenwable",
+    "value": 0.169453231
+  },
+  {
+    "Country": "Costa Rica",
+    "type": "NonRenwable",
+    "value": 0.951048951
+  },
+  {
+    "Country": "Croatia",
+    "type": "NonRenwable",
+    "value": 31.53591769
+  },
+  {
+    "Country": "Cuba",
+    "type": "NonRenwable",
+    "value": 95.81045034
+  },
+  {
+    "Country": "Cyprus",
+    "type": "NonRenwable",
+    "value": 90.75414429
+  },
+  {
+    "Country": "Czech Republic",
+    "type": "NonRenwable",
+    "value": 87.85301298
+  },
+  {
+    "Country": "Denmark",
+    "type": "NonRenwable",
+    "value": 30.57091537
+  },
+  {
+    "Country": "Djibouti",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Dominica",
+    "type": "NonRenwable",
+    "value": 74.46808511
+  },
+  {
+    "Country": "Dominican Republic",
+    "type": "NonRenwable",
+    "value": 87.81641524
+  },
+  {
+    "Country": "Ecuador",
+    "type": "NonRenwable",
+    "value": 45.88956073
+  },
+  {
+    "Country": "Egypt",
+    "type": "NonRenwable",
+    "value": 91.33076484
+  },
+  {
+    "Country": "El Salvador",
+    "type": "NonRenwable",
+    "value": 41.55119973
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "type": "NonRenwable",
+    "value": 54.11764706
+  },
+  {
+    "Country": "Eritrea",
+    "type": "NonRenwable",
+    "value": 98.95833333
+  },
+  {
+    "Country": "Estonia",
+    "type": "NonRenwable",
+    "value": 83.51870576
+  },
+  {
+    "Country": "Ethiopia",
+    "type": "NonRenwable",
+    "value": 0.038680979
+  },
+  {
+    "Country": "Faroe Islands",
+    "type": "NonRenwable",
+    "value": 38.43648208
+  },
+  {
+    "Country": "Fiji",
+    "type": "NonRenwable",
+    "value": 53.81165919
+  },
+  {
+    "Country": "Finland",
+    "type": "NonRenwable",
+    "value": 53.72172184
+  },
+  {
+    "Country": "France",
+    "type": "NonRenwable",
+    "value": 83.16309433
+  },
+  {
+    "Country": "French Polynesia",
+    "type": "NonRenwable",
+    "value": 63.89776358
+  },
+  {
+    "Country": "Gabon",
+    "type": "NonRenwable",
+    "value": 54.96332518
+  },
+  {
+    "Country": "Gambia, The",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Georgia",
+    "type": "NonRenwable",
+    "value": 21.08439415
+  },
+  {
+    "Country": "Germany",
+    "type": "NonRenwable",
+    "value": 68.24906461
+  },
+  {
+    "Country": "Ghana",
+    "type": "NonRenwable",
+    "value": 47.80962683
+  },
+  {
+    "Country": "Gibraltar",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Greece",
+    "type": "NonRenwable",
+    "value": 70.27520701
+  },
+  {
+    "Country": "Greenland",
+    "type": "NonRenwable",
+    "value": 32.32
+  },
+  {
+    "Country": "Grenada",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Guadeloupe",
+    "type": "NonRenwable",
+    "value": 96.59462999
+  },
+  {
+    "Country": "Guam",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Guatemala",
+    "type": "NonRenwable",
+    "value": 38.26208178
+  },
+  {
+    "Country": "Guinea",
+    "type": "NonRenwable",
+    "value": 50
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Guyana",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Haiti",
+    "type": "NonRenwable",
+    "value": 91.63265306
+  },
+  {
+    "Country": "Honduras",
+    "type": "NonRenwable",
+    "value": 56.36005561
+  },
+  {
+    "Country": "Hong Kong",
+    "type": "NonRenwable",
+    "value": 99.70353797
+  },
+  {
+    "Country": "Hungary",
+    "type": "NonRenwable",
+    "value": 88.43179602
+  },
+  {
+    "Country": "Iceland",
+    "type": "NonRenwable",
+    "value": 0.021554047
+  },
+  {
+    "Country": "India",
+    "type": "NonRenwable",
+    "value": 84.91760931
+  },
+  {
+    "Country": "Indonesia",
+    "type": "NonRenwable",
+    "value": 88.79515241
+  },
+  {
+    "Country": "Iran",
+    "type": "NonRenwable",
+    "value": 94.64696137
+  },
+  {
+    "Country": "Iraq",
+    "type": "NonRenwable",
+    "value": 96.07794809
+  },
+  {
+    "Country": "Ireland",
+    "type": "NonRenwable",
+    "value": 70.25677603
+  },
+  {
+    "Country": "Israel",
+    "type": "NonRenwable",
+    "value": 97.99156258
+  },
+  {
+    "Country": "Italy",
+    "type": "NonRenwable",
+    "value": 59.11266124
+  },
+  {
+    "Country": "Jamaica",
+    "type": "NonRenwable",
+    "value": 89.17671198
+  },
+  {
+    "Country": "Japan",
+    "type": "NonRenwable",
+    "value": 82.62380005
+  },
+  {
+    "Country": "Jordan",
+    "type": "NonRenwable",
+    "value": 98.97668176
+  },
+  {
+    "Country": "Kazakhstan",
+    "type": "NonRenwable",
+    "value": 90.69383534
+  },
+  {
+    "Country": "Kenya",
+    "type": "NonRenwable",
+    "value": 11.84155518
+  },
+  {
+    "Country": "Kiribati",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Korea, North",
+    "type": "NonRenwable",
+    "value": 26.19100872
+  },
+  {
+    "Country": "Korea, South",
+    "type": "NonRenwable",
+    "value": 97.89408474
+  },
+  {
+    "Country": "Kosovo",
+    "type": "NonRenwable",
+    "value": 97.58638653
+  },
+  {
+    "Country": "Kuwait",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "type": "NonRenwable",
+    "value": 14.16855425
+  },
+  {
+    "Country": "Latvia",
+    "type": "NonRenwable",
+    "value": 48.45765564
+  },
+  {
+    "Country": "Lebanon",
+    "type": "NonRenwable",
+    "value": 97.2289574
+  },
+  {
+    "Country": "Lesotho",
+    "type": "NonRenwable",
+    "value": 0
+  },
+  {
+    "Country": "Liberia",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Libya",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Lithuania",
+    "type": "NonRenwable",
+    "value": 51.90119345
+  },
+  {
+    "Country": "Luxembourg",
+    "type": "NonRenwable",
+    "value": 34.87450462
+  },
+  {
+    "Country": "Macedonia",
+    "type": "NonRenwable",
+    "value": 67.29787584
+  },
+  {
+    "Country": "Madagascar",
+    "type": "NonRenwable",
+    "value": 40.25198939
+  },
+  {
+    "Country": "Malawi",
+    "type": "NonRenwable",
+    "value": 0.943396226
+  },
+  {
+    "Country": "Malaysia",
+    "type": "NonRenwable",
+    "value": 89.56375863
+  },
+  {
+    "Country": "Maldives",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Mali",
+    "type": "NonRenwable",
+    "value": 45.97701149
+  },
+  {
+    "Country": "Malta",
+    "type": "NonRenwable",
+    "value": 92.1009772
+  },
+  {
+    "Country": "Martinique",
+    "type": "NonRenwable",
+    "value": 99.87515605
+  },
+  {
+    "Country": "Mauritania",
+    "type": "NonRenwable",
+    "value": 76.44305772
+  },
+  {
+    "Country": "Mauritius",
+    "type": "NonRenwable",
+    "value": 76.19880994
+  },
+  {
+    "Country": "Mexico",
+    "type": "NonRenwable",
+    "value": 84.02573791
+  },
+  {
+    "Country": "Moldova",
+    "type": "NonRenwable",
+    "value": 94.35736677
+  },
+  {
+    "Country": "Mongolia",
+    "type": "NonRenwable",
+    "value": 96.7257319
+  },
+  {
+    "Country": "Montenegro",
+    "type": "NonRenwable",
+    "value": 49.05074215
+  },
+  {
+    "Country": "Morocco",
+    "type": "NonRenwable",
+    "value": 84.29577717
+  },
+  {
+    "Country": "Mozambique",
+    "type": "NonRenwable",
+    "value": 12.99351346
+  },
+  {
+    "Country": "Myanmar",
+    "type": "NonRenwable",
+    "value": 39.897946
+  },
+  {
+    "Country": "Namibia",
+    "type": "NonRenwable",
+    "value": 2.106649111
+  },
+  {
+    "Country": "Nauru",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Nepal",
+    "type": "NonRenwable",
+    "value": 0
+  },
+  {
+    "Country": "Netherlands",
+    "type": "NonRenwable",
+    "value": 85.29930759
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "type": "NonRenwable",
+    "value": 80
+  },
+  {
+    "Country": "New Caledonia",
+    "type": "NonRenwable",
+    "value": 85.64321251
+  },
+  {
+    "Country": "New Zealand",
+    "type": "NonRenwable",
+    "value": 19.16247204
+  },
+  {
+    "Country": "Nicaragua",
+    "type": "NonRenwable",
+    "value": 48.4125197
+  },
+  {
+    "Country": "Niger",
+    "type": "NonRenwable",
+    "value": 99.19839679
+  },
+  {
+    "Country": "Nigeria",
+    "type": "NonRenwable",
+    "value": 81.01240362
+  },
+  {
+    "Country": "Norway",
+    "type": "NonRenwable",
+    "value": 1.503711872
+  },
+  {
+    "Country": "Oman",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Pakistan",
+    "type": "NonRenwable",
+    "value": 67.00707592
+  },
+  {
+    "Country": "Panama",
+    "type": "NonRenwable",
+    "value": 33.47964884
+  },
+  {
+    "Country": "Papua New Guinea",
+    "type": "NonRenwable",
+    "value": 76.24309392
+  },
+  {
+    "Country": "Paraguay",
+    "type": "NonRenwable",
+    "value": 0.00181189
+  },
+  {
+    "Country": "Peru",
+    "type": "NonRenwable",
+    "value": 45.96321228
+  },
+  {
+    "Country": "Philippines",
+    "type": "NonRenwable",
+    "value": 73.45430962
+  },
+  {
+    "Country": "Poland",
+    "type": "NonRenwable",
+    "value": 85.44033176
+  },
+  {
+    "Country": "Portugal",
+    "type": "NonRenwable",
+    "value": 50.21053274
+  },
+  {
+    "Country": "Puerto Rico",
+    "type": "NonRenwable",
+    "value": 97.83475223
+  },
+  {
+    "Country": "Qatar",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Romania",
+    "type": "NonRenwable",
+    "value": 58.69668698
+  },
+  {
+    "Country": "Russia",
+    "type": "NonRenwable",
+    "value": 83.13330557
+  },
+  {
+    "Country": "Rwanda",
+    "type": "NonRenwable",
+    "value": 50
+  },
+  {
+    "Country": "Samoa",
+    "type": "NonRenwable",
+    "value": 66.92913386
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "type": "NonRenwable",
+    "value": 90.90909091
+  },
+  {
+    "Country": "Saudi Arabia",
+    "type": "NonRenwable",
+    "value": 99.99968557
+  },
+  {
+    "Country": "Senegal",
+    "type": "NonRenwable",
+    "value": 88.86468827
+  },
+  {
+    "Country": "Serbia",
+    "type": "NonRenwable",
+    "value": 71.74685543
+  },
+  {
+    "Country": "Seychelles",
+    "type": "NonRenwable",
+    "value": 97.98270893
+  },
+  {
+    "Country": "Sierra Leone",
+    "type": "NonRenwable",
+    "value": 37.14285714
+  },
+  {
+    "Country": "Singapore",
+    "type": "NonRenwable",
+    "value": 96.7335678
+  },
+  {
+    "Country": "Slovakia",
+    "type": "NonRenwable",
+    "value": 76.25160979
+  },
+  {
+    "Country": "Slovenia",
+    "type": "NonRenwable",
+    "value": 69.46375372
+  },
+  {
+    "Country": "Solomon Islands",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Somalia",
+    "type": "NonRenwable",
+    "value": 98.55072464
+  },
+  {
+    "Country": "South Africa",
+    "type": "NonRenwable",
+    "value": 97.59182965
+  },
+  {
+    "Country": "South Sudan",
+    "type": "NonRenwable",
+    "value": 99.35483871
+  },
+  {
+    "Country": "Spain",
+    "type": "NonRenwable",
+    "value": 63.79217024
+  },
+  {
+    "Country": "Sri Lanka",
+    "type": "NonRenwable",
+    "value": 50.22421525
+  },
+  {
+    "Country": "Sudan",
+    "type": "NonRenwable",
+    "value": 34.2845881
+  },
+  {
+    "Country": "Suriname",
+    "type": "NonRenwable",
+    "value": 38.72146119
+  },
+  {
+    "Country": "Swaziland",
+    "type": "NonRenwable",
+    "value": 46.4037123
+  },
+  {
+    "Country": "Sweden",
+    "type": "NonRenwable",
+    "value": 35.2955948
+  },
+  {
+    "Country": "Switzerland",
+    "type": "NonRenwable",
+    "value": 34.56844077
+  },
+  {
+    "Country": "Syria",
+    "type": "NonRenwable",
+    "value": 97.5696714
+  },
+  {
+    "Country": "Taiwan",
+    "type": "NonRenwable",
+    "value": 95.60614632
+  },
+  {
+    "Country": "Tajikistan",
+    "type": "NonRenwable",
+    "value": 1.449019261
+  },
+  {
+    "Country": "Tanzania",
+    "type": "NonRenwable",
+    "value": 64.66390041
+  },
+  {
+    "Country": "Thailand",
+    "type": "NonRenwable",
+    "value": 90.98957496
+  },
+  {
+    "Country": "Togo",
+    "type": "NonRenwable",
+    "value": 24.05063291
+  },
+  {
+    "Country": "Tonga",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Tunisia",
+    "type": "NonRenwable",
+    "value": 96.95547796
+  },
+  {
+    "Country": "Turkey",
+    "type": "NonRenwable",
+    "value": 67.0859067
+  },
+  {
+    "Country": "Turkmenistan",
+    "type": "NonRenwable",
+    "value": 99.98583904
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "type": "NonRenwable",
+    "value": 100
+  },
+  {
+    "Country": "Uganda",
+    "type": "NonRenwable",
+    "value": 19.16537867
+  },
+  {
+    "Country": "Ukraine",
+    "type": "NonRenwable",
+    "value": 95.36687659
+  },
+  {
+    "Country": "United Arab Emirates",
+    "type": "NonRenwable",
+    "value": 99.7519688
+  },
+  {
+    "Country": "United Kingdom",
+    "type": "NonRenwable",
+    "value": 72.62831997
+  },
+  {
+    "Country": "United States",
+    "type": "NonRenwable",
+    "value": 86.02867396
+  },
+  {
+    "Country": "Uruguay",
+    "type": "NonRenwable",
+    "value": 10.89649071
+  },
+  {
+    "Country": "Uzbekistan",
+    "type": "NonRenwable",
+    "value": 78.5017364
+  },
+  {
+    "Country": "Vanuatu",
+    "type": "NonRenwable",
+    "value": 90.90909091
+  },
+  {
+    "Country": "Vietnam",
+    "type": "NonRenwable",
+    "value": 62.05497543
+  },
+  {
+    "Country": "Zambia",
+    "type": "NonRenwable",
+    "value": 2.860368837
+  },
+  {
+    "Country": "Zimbabwe",
+    "type": "NonRenwable",
+    "value": 45.98252344
+  }
+]
